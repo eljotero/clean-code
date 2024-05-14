@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99b1d846-5454-4322-a40f-5a23fe2f8bc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/cleancode/doit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/cleancode/doit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/solution/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/solution/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/solution/RacingCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/solution/RacingCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/solution/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/solution/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/violation/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/violation/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/violation/LimousineCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/violation/LimousineCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/violation/RacingCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/driver/violation/RacingCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/weathertracker/solution/TODO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/weathertracker/solution/TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/weathertracker/violation/Emailer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/weathertracker/violation/Emailer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/weathertracker/violation/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/weathertracker/violation/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/weathertracker/violation/WeatherTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/dip/weathertracker/violation/WeatherTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/solution/TODO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/solution/TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/violation/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/violation/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/violation/Dialler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/violation/Dialler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/violation/Emailer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/violation/Emailer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/violation/InterfaceSegregationPrincipleBAD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/contactbook/violation/InterfaceSegregationPrincipleBAD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/CameraSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/CameraSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/EngineSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/EngineSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/RadioSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/RadioSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/solution/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/violation/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/violation/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/violation/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/violation/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/violation/Switches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/violation/Switches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/violation/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/isp/switcher/violation/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/shape/TODO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/shape/TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/solution/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/solution/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/solution/Gear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/solution/Gear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/solution/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/solution/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/solution/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/solution/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/violation/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/violation/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/violation/Gear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/violation/Gear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/violation/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/violation/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/violation/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/lsp/vehiclemovement/violation/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/CasualPersonality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/CasualPersonality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/FormalPersonality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/FormalPersonality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/IntimatePersonality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/IntimatePersonality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/Personality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/solution/Personality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/violation/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/greeter/violation/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/usa/solution/TODO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/usa/solution/TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/usa/violation/USASpeedLimitFines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/usa/violation/USASpeedLimitFines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/Comfort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/Comfort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/DrivingMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/DrivingMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/Economy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/Economy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/EventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/Sport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/Sport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/solution/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/violation/DrivingMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/violation/DrivingMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/violation/EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/violation/EventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/violation/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/ocp/vehicle/violation/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/book/violation/BookAndPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/book/violation/BookAndPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/vehicle/solution/FuelPump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/vehicle/solution/FuelPump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/vehicle/solution/Refualable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/vehicle/solution/Refualable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/vehicle/solution/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/vehicle/solution/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/vehicle/violation/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zzpj/solid/srp/vehicle/violation/Vehicle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gTK1aaDUUNQE5eNq9U2VW5MYrJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Hp/Documents/GitHub/clean-code/clean-code",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b1d846-5454-4322-a40f-5a23fe2f8bc4" name="Changes" comment="" />
+      <created>1715715914255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715715914255</updated>
+      <workItem from="1715715916011" duration="5926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
